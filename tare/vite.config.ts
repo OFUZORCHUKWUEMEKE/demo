@@ -12,7 +12,7 @@ export default defineConfig({
     },
   },
   server: {
-    allowedHosts: ["5173-ofuzorchukwuemek-demo-p45vrqhp4f7.ws-eu118.gitpod.io"]
+    allowedHosts: ["5173-ofuzorchukwuemek-demo-p45vrqhp4f7.ws-eu118.gitpod.io","5173-ofuzorchukwuemek-demo-c72yzqsi2kk.ws-eu118.gitpod.io"]
   }
 
 })
